@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS_PRAKTIKUMPEMBER</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="umur">Umur</string>
+
+</resources>
